@@ -6,7 +6,7 @@
 
 ## 組立説明書
 
-[省エネLEDライトキット 説明書](https://github.com/dwt98/JTX/raw/master/led_light_kit.pdf)
+[省エネLEDライトキット 説明書](https://github.com/dwt98/JT/raw/master/led_light_kit.pdf)
 
 ## お問い合わせ
 
